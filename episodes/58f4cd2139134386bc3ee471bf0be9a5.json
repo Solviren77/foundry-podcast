@@ -1,7 +1,7 @@
 {
-  "title": "v10b \u2014 AI Benchmark Forecast (distortion fixed)",
-  "description": "Same v10 debate, distortion fixed. Stripped post-chain to just loudnorm + tensor clamp at \u00b10.95 to prevent per-voice gain clipping. Listen for clean audio across all five voices.",
-  "summary": "v10b \u2014 distortion fix. Stripped post-chain + tensor clamp.",
+  "title": "Episode 1 — AI Benchmark Forecast",
+  "description": "The Foundry council debates where the leading AI benchmarks land in April 2028. Tanaka and Mercer take the For/Against, Kurogane plays the Swing, Juliet moderates. Munk-Debates / Hitchens style.",
+  "summary": "Where do the leading AI benchmarks land in April 2028? Tanaka, Kurogane, and Mercer debate; Juliet moderates.",
   "pub_date": "Fri, 01 May 2026 03:12:51 +0000",
   "duration_seconds": 690.2
 }

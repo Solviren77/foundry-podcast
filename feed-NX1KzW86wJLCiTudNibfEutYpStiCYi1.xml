@@ -14,45 +14,15 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry Council</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Fri, 01 May 2026 04:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 19:11:04 +0000</lastBuildDate>
     <item>
-      <title>v4 — AI Benchmark Forecast (audiobook draft)</title>
-      <description>Early audiobook-style render of the AI 2028 benchmark debate. Narrator + moderator + three agents. Pre-doctrine refinement.</description>
-      <itunes:summary>Early audiobook-style render of the AI 2028 benchmark debate. Narrator + moderator + three agents. Pre-doctrine refinement.</itunes:summary>
-      <pubDate>Tue, 28 Apr 2026 03:09:28 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/eb101c93e4934d5c9447ace794d6a9f6.m4a" length="7454936" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-eb101c93e4934d5c9447ace794d6a9f6</guid>
-      <itunes:duration>10:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>v9 — AI Benchmark Forecast (Hitchens/Munk doctrine)</title>
-      <description>Foundry council debates where AI benchmarks land in April 2028. Full debate doctrine — listener stakes hook, House motion, For/Against/Swing casting, Hitchens-style metaphors. Voice cast: Tanaka, Kurogane (Japanese accent), Mercer, Storm narrator, Juliet moderator.</description>
-      <itunes:summary>Foundry council debates where AI benchmarks land in April 2028. Full debate doctrine — listener stakes hook, House motion, For/Against/Swing casting, Hitchens-style metaphors. Voice cast: Tanaka, Kurogane (Japanese accent), Mercer, Storm narrator, Juliet moderator.</itunes:summary>
-      <pubDate>Thu, 30 Apr 2026 23:09:28 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/1d38a40dd5fa46dba10515d54ae751b8.m4a" length="7526499" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-1d38a40dd5fa46dba10515d54ae751b8</guid>
-      <itunes:duration>10:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>v10b — AI Benchmark Forecast (distortion fixed)</title>
-      <description>Same v10 debate, distortion fixed. Stripped post-chain to just loudnorm + tensor clamp at ±0.95 to prevent per-voice gain clipping. Listen for clean audio across all five voices.</description>
-      <itunes:summary>v10b — distortion fix. Stripped post-chain + tensor clamp.</itunes:summary>
+      <title>Episode 1 — AI Benchmark Forecast</title>
+      <description>The Foundry council debates where the leading AI benchmarks land in April 2028. Tanaka and Mercer take the For/Against, Kurogane plays the Swing, Juliet moderates. Munk-Debates / Hitchens style.</description>
+      <itunes:summary>Where do the leading AI benchmarks land in April 2028? Tanaka, Kurogane, and Mercer debate; Juliet moderates.</itunes:summary>
       <pubDate>Fri, 01 May 2026 03:12:51 +0000</pubDate>
       <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/58f4cd2139134386bc3ee471bf0be9a5.m4a" length="8657285" type="audio/mp4"/>
       <guid isPermaLink="false">foundry-58f4cd2139134386bc3ee471bf0be9a5</guid>
       <itunes:duration>11:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>v10 — AI Benchmark Forecast (new voice cast)</title>
-      <description>Same debate, swapped to Matt's three new ElevenLabs voice picks. Audio engineering pass: -16 LUFS broadcast level, per-voice loudness zones, full podcast post-chain. Note: this version has known distortion buildup; superseded by v10b.</description>
-      <itunes:summary>Same debate, swapped to Matt's three new ElevenLabs voice picks. Audio engineering pass: -16 LUFS broadcast level, per-voice loudness zones, full podcast post-chain. Note: this version has known distortion buildup; superseded by v10b.</itunes:summary>
-      <pubDate>Fri, 01 May 2026 02:09:29 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/d7f298c364b146e1a5bdaf62f64585a6.m4a" length="8366834" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-d7f298c364b146e1a5bdaf62f64585a6</guid>
-      <itunes:duration>11:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
