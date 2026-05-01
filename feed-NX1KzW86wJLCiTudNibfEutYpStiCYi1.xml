@@ -14,7 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry Council</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Fri, 01 May 2026 19:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 21:16:28 +0000</lastBuildDate>
+    <item>
+      <title>Episode 2 — Iran War Justification</title>
+      <description>The Foundry Council debates whether the United States was justified in joining Israel's preventive war on Iran. Mercer argues For (a regime days from breakout, with the inspectors blind, cannot be allowed the courtesy of legal patience). Tanaka argues Against (five of the six tests of a just war failed on the documentary record — preventive is not preemption). Kurogane is the Swing — and finds his floor in a hotel in Muscat, where an American diplomat was still talking when the bombs fell.</description>
+      <itunes:summary>Was the United States justified in joining Israel's preventive war on Iran? Tanaka, Kurogane, and Mercer debate jus ad bellum, the chronology of the Muscat track, and the question of imminence-by-capability. Juliet moderates.</itunes:summary>
+      <pubDate>Fri, 01 May 2026 21:16:24 +0000</pubDate>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/d829ac49b3e4435f9c3382b4eff20058.m4a" length="10232833" type="audio/mp4"/>
+      <guid isPermaLink="false">foundry-d829ac49b3e4435f9c3382b4eff20058</guid>
+      <itunes:duration>13:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Episode 1 — AI Benchmark Forecast</title>
       <description>The Foundry council debates where the leading AI benchmarks land in April 2028. Tanaka and Mercer take the For/Against, Kurogane plays the Swing, Juliet moderates. Munk-Debates / Hitchens style.</description>
