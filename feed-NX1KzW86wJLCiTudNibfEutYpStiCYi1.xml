@@ -14,7 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Sun, 03 May 2026 00:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 00:31:54 +0000</lastBuildDate>
+    <item>
+      <title>Test 3min — Gemini 3.1 Flash TTS (~$0.36/ep)</title>
+      <description>Engine A/B test, identical script. Engine: Google Gemini 3.1 Flash TTS preview. NOTE: multi-speaker mode capped at 2 speakers, so rendered per-segment (4 voices: Kore/Charon/Orus/Puck). Cost ~$0.36/episode at full daily cadence.</description>
+      <itunes:summary>Engine A/B test, identical script. Engine: Google Gemini 3.1 Flash TTS preview. NOTE: multi-speaker mode capped at 2 speakers, so rendered per-segment (4 voices: Kore/Charon/Orus/Puck). Cost ~$0.36/episode at full daily cadence.</itunes:summary>
+      <pubDate>Sun, 03 May 2026 00:31:54 +0000</pubDate>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/ee9f454351c4414dbd8eb5a658406f44.m4a" length="3072827" type="audio/mp4"/>
+      <guid isPermaLink="false">foundry-ee9f454351c4414dbd8eb5a658406f44</guid>
+      <itunes:duration>03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Test 3min — Hume Octave (~$14/mo tier, built-in voices)</title>
       <description>Engine A/B test, identical script. Engine: Hume Octave 2 with built-in voices (Ava Song / Sebastian Lockwood / Terrence Bentley / Donovan Sinclair). Note: not voice-matched to Foundry characters — testing engine quality only. To match characters, would need ~15min cloning per voice.</description>
