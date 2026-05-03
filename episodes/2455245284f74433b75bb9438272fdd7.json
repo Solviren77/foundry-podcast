@@ -1,0 +1,7 @@
+{
+  "title": "Test 3min \u2014 VibeVoice 1.5B (Microsoft, free, single-pass multi-speaker)",
+  "description": "Engine A/B test, identical script (Musk vs OpenAI v14 cold open + sub-question 1, 14 turns/543 words). Engine: Microsoft VibeVoice-1.5B (open-source, MIT, runs locally on Apple Silicon). Native multi-speaker single-pass rendering \u2014 no segment seams.",
+  "summary": "Engine A/B test, identical script (Musk vs OpenAI v14 cold open + sub-question 1, 14 turns/543 words). Engine: Microsoft VibeVoice-1.5B (open-source, MIT, runs locally on Apple Silicon). Native multi-speaker single-pass rendering \u2014 no segment seams.",
+  "pub_date": "Sun, 03 May 2026 00:09:42 +0000",
+  "duration_seconds": 236.533
+}
