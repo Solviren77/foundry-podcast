@@ -14,85 +14,15 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Sun, 03 May 2026 01:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 01:16:57 +0000</lastBuildDate>
     <item>
-      <title>is Elon Musk's lawsuit against OpenAI's for-profit conversion a legitimate grievance about a betrayed founding mission, </title>
-      <description>Council debate, 3 rounds, 9 agent turns. Setting: A wood-paneled study, late evening. A single brass lamp on the table. A fire crackling in a stone fireplace at the far wall. Three leather chairs, a heavy wooden table between them. Books to the ceili</description>
-      <itunes:summary>Council debate, 3 rounds, 9 agent turns. Setting: A wood-paneled study, late evening. A single brass lamp on the table. A fire crackling in a stone fireplace at the far wall. Three leather chairs, a heavy wooden table between them. Books to the ceili</itunes:summary>
+      <title>Episode 3 — Musk vs OpenAI (Gemini voice)</title>
+      <description>A three-way deliberation on Elon Musk's lawsuit against OpenAI's for-profit conversion: legitimate grievance about a betrayed founding mission, or competitor using the courts to hobble a rival? Voice: Google Gemini 3.1 Flash TTS.</description>
+      <itunes:summary>A three-way deliberation on Elon Musk's lawsuit against OpenAI's for-profit conversion: legitimate grievance about a betrayed founding mission, or competitor using the courts to hobble a rival? Voice: Google Gemini 3.1 Flash TTS.</itunes:summary>
       <pubDate>Sun, 03 May 2026 01:16:25 +0000</pubDate>
       <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/f7b490f51c904dbdab92f5b97cc509e6.m4a" length="5693648" type="audio/mp4"/>
       <guid isPermaLink="false">foundry-f7b490f51c904dbdab92f5b97cc509e6</guid>
       <itunes:duration>07:28</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Test 3min — Fish S2 Pro v2 (4 distinct voices)</title>
-      <description>Engine A/B test, identical script. Engine: Fish Audio S2 Pro with 4 distinct community voices: Paula (Juliet), Ethan (Mercer), Alhaitham (Tanaka), ELITE (Kurogane). Cost ~$0.06/episode at full daily cadence.</description>
-      <itunes:summary>Engine A/B test, identical script. Engine: Fish Audio S2 Pro with 4 distinct community voices: Paula (Juliet), Ethan (Mercer), Alhaitham (Tanaka), ELITE (Kurogane). Cost ~$0.06/episode at full daily cadence.</itunes:summary>
-      <pubDate>Sun, 03 May 2026 00:52:58 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/0aee4b1d9b714586822c273da67b22b8.m4a" length="2775580" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-0aee4b1d9b714586822c273da67b22b8</guid>
-      <itunes:duration>03:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Test 3min — Fish Audio S2 Pro (~$0.06/ep, default voice for all)</title>
-      <description>Engine A/B test, identical script. Engine: Fish Audio S2 Pro (#1 on TTS-Arena2 leaderboard). NOTE: all 4 characters use Fish's default voice — testing engine quality, not character match. To get distinct voices we'd need to upload reference clips per character.</description>
-      <itunes:summary>Engine A/B test, identical script. Engine: Fish Audio S2 Pro (#1 on TTS-Arena2 leaderboard). NOTE: all 4 characters use Fish's default voice — testing engine quality, not character match. To get distinct voices we'd need to upload reference clips per character.</itunes:summary>
-      <pubDate>Sun, 03 May 2026 00:49:15 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/27d4afcc0fe647fd9488d073bd00a36f.m4a" length="2855191" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-27d4afcc0fe647fd9488d073bd00a36f</guid>
-      <itunes:duration>03:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Test 3min — Gemini 3.1 Flash TTS (~$0.36/ep)</title>
-      <description>Engine A/B test, identical script. Engine: Google Gemini 3.1 Flash TTS preview. NOTE: multi-speaker mode capped at 2 speakers, so rendered per-segment (4 voices: Kore/Charon/Orus/Puck). Cost ~$0.36/episode at full daily cadence.</description>
-      <itunes:summary>Engine A/B test, identical script. Engine: Google Gemini 3.1 Flash TTS preview. NOTE: multi-speaker mode capped at 2 speakers, so rendered per-segment (4 voices: Kore/Charon/Orus/Puck). Cost ~$0.36/episode at full daily cadence.</itunes:summary>
-      <pubDate>Sun, 03 May 2026 00:31:54 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/ee9f454351c4414dbd8eb5a658406f44.m4a" length="3072827" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-ee9f454351c4414dbd8eb5a658406f44</guid>
-      <itunes:duration>03:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Test 3min — Hume Octave (~$14/mo tier, built-in voices)</title>
-      <description>Engine A/B test, identical script. Engine: Hume Octave 2 with built-in voices (Ava Song / Sebastian Lockwood / Terrence Bentley / Donovan Sinclair). Note: not voice-matched to Foundry characters — testing engine quality only. To match characters, would need ~15min cloning per voice.</description>
-      <itunes:summary>Engine A/B test, identical script. Engine: Hume Octave 2 with built-in voices (Ava Song / Sebastian Lockwood / Terrence Bentley / Donovan Sinclair). Note: not voice-matched to Foundry characters — testing engine quality only. To match characters, would need ~15min cloning per voice.</itunes:summary>
-      <pubDate>Sun, 03 May 2026 00:09:48 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/df03468c234745509890a6169cf37414.m4a" length="2648639" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-df03468c234745509890a6169cf37414</guid>
-      <itunes:duration>03:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Test 3min — ElevenLabs v3 Dialogue Mode (~$3/episode tier)</title>
-      <description>Engine A/B test, identical script. Engine: ElevenLabs v3 alpha, Text-to-Dialogue endpoint (multi-speaker single-pass). Voices are the original cloned Foundry voices. Premium commercial tier.</description>
-      <itunes:summary>Engine A/B test, identical script. Engine: ElevenLabs v3 alpha, Text-to-Dialogue endpoint (multi-speaker single-pass). Voices are the original cloned Foundry voices. Premium commercial tier.</itunes:summary>
-      <pubDate>Sun, 03 May 2026 00:09:45 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/5f5ba74557444e2abe22827ca92ea61c.m4a" length="3198534" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-5f5ba74557444e2abe22827ca92ea61c</guid>
-      <itunes:duration>04:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Test 3min — VibeVoice 1.5B (Microsoft, free, single-pass multi-speaker)</title>
-      <description>Engine A/B test, identical script (Musk vs OpenAI v14 cold open + sub-question 1, 14 turns/543 words). Engine: Microsoft VibeVoice-1.5B (open-source, MIT, runs locally on Apple Silicon). Native multi-speaker single-pass rendering — no segment seams.</description>
-      <itunes:summary>Engine A/B test, identical script (Musk vs OpenAI v14 cold open + sub-question 1, 14 turns/543 words). Engine: Microsoft VibeVoice-1.5B (open-source, MIT, runs locally on Apple Silicon). Native multi-speaker single-pass rendering — no segment seams.</itunes:summary>
-      <pubDate>Sun, 03 May 2026 00:09:42 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/2455245284f74433b75bb9438272fdd7.m4a" length="2870867" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-2455245284f74433b75bb9438272fdd7</guid>
-      <itunes:duration>03:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Episode 3 — Musk vs OpenAI</title>
-      <description>A three-way deliberation on Elon Musk’s lawsuit against OpenAI’s for-profit conversion: legitimate grievance, or competitor’s gambit?</description>
-      <itunes:summary>A three-way deliberation on Elon Musk’s lawsuit against OpenAI’s for-profit conversion: legitimate grievance, or competitor’s gambit?</itunes:summary>
-      <pubDate>Sat, 02 May 2026 20:21:55 +0000</pubDate>
-      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/411a141d6a734d5f8596c1c98eef45cc.m4a" length="6554580" type="audio/mp4"/>
-      <guid isPermaLink="false">foundry-411a141d6a734d5f8596c1c98eef45cc</guid>
-      <itunes:duration>08:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
