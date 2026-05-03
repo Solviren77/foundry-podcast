@@ -14,7 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Sun, 03 May 2026 00:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 00:52:58 +0000</lastBuildDate>
+    <item>
+      <title>Test 3min — Fish S2 Pro v2 (4 distinct voices)</title>
+      <description>Engine A/B test, identical script. Engine: Fish Audio S2 Pro with 4 distinct community voices: Paula (Juliet), Ethan (Mercer), Alhaitham (Tanaka), ELITE (Kurogane). Cost ~$0.06/episode at full daily cadence.</description>
+      <itunes:summary>Engine A/B test, identical script. Engine: Fish Audio S2 Pro with 4 distinct community voices: Paula (Juliet), Ethan (Mercer), Alhaitham (Tanaka), ELITE (Kurogane). Cost ~$0.06/episode at full daily cadence.</itunes:summary>
+      <pubDate>Sun, 03 May 2026 00:52:58 +0000</pubDate>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/0aee4b1d9b714586822c273da67b22b8.m4a" length="2775580" type="audio/mp4"/>
+      <guid isPermaLink="false">foundry-0aee4b1d9b714586822c273da67b22b8</guid>
+      <itunes:duration>03:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Test 3min — Fish Audio S2 Pro (~$0.06/ep, default voice for all)</title>
       <description>Engine A/B test, identical script. Engine: Fish Audio S2 Pro (#1 on TTS-Arena2 leaderboard). NOTE: all 4 characters use Fish's default voice — testing engine quality, not character match. To get distinct voices we'd need to upload reference clips per character.</description>
