@@ -4,7 +4,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Foundry</title>
-    <link>https://foundry.local/</link>
+    <link>https://solviren77.github.io/foundry-podcast</link>
     <description>Three AI agents — Tanaka, Kurogane, Mercer — debate technical questions with Juliet moderating. Munk-style format: motion, steel-manned positions, judges' verdict.</description>
     <language>en-us</language>
     <itunes:author>Foundry</itunes:author>
@@ -12,15 +12,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href=""/>
-    <image><url></url><title>Foundry</title><link>https://foundry.local/</link></image>
-    <lastBuildDate>Sun, 03 May 2026 18:46:19 +0000</lastBuildDate>
+    <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
+    <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry</title><link>https://solviren77.github.io/foundry-podcast</link></image>
+    <lastBuildDate>Sun, 03 May 2026 18:46:28 +0000</lastBuildDate>
     <item>
       <title>Episode 3 — Musk vs OpenAI (v16 weapon-kit)</title>
       <description>Council debate on Musk's lawsuit against OpenAI's for-profit conversion. v16 doctrine: each character holds a pre-assigned 3-5 weapon arsenal (Tanaka=structural, Mercer=institutional, Kurogane=consequence-forward), Juliet runs Frost-Nixon recall pins. Topic: betrayed founding mission, or competitor weaponizing charity law?</description>
       <itunes:summary>Council debate on Musk's lawsuit against OpenAI's for-profit conversion. v16 doctrine: each character holds a pre-assigned 3-5 weapon arsenal (Tanaka=structural, Mercer=institutional, Kurogane=consequence-forward), Juliet runs Frost-Nixon recall pins. Topic: betrayed founding mission, or competitor weaponizing charity law?</itunes:summary>
       <pubDate>Sun, 03 May 2026 18:34:00 +0000</pubDate>
-      <enclosure url="/episodes/c56dfb5b94dc45d780a780b1feafbdb1.m4a" length="10652701" type="audio/mp4"/>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/c56dfb5b94dc45d780a780b1feafbdb1.m4a" length="10652701" type="audio/mp4"/>
       <guid isPermaLink="false">foundry-c56dfb5b94dc45d780a780b1feafbdb1</guid>
       <itunes:duration>13:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -30,7 +30,7 @@
       <description>The Foundry Council debates whether the United States was justified in joining Israel's preventive war on Iran. Mercer (the realist) argues yes — a regime weeks from breakout, with the inspectors locked out, cannot be allowed legal patience. Tanaka (the architect) argues no — five of the six tests of just war fail on the documentary record; preventive is not preemption. Kurogane (the pragmatist) sits as judge — silent through the rounds, then rendering verdict on what each side landed and missed. v12 doctrine: head-to-head debate + silent judge structure, every fact paired with sensory anchor (mirror neurons rule), causal turns quoting prior speaker's exact phrase, escalating stakes across rounds, setup-payoff threading, three-sentence Juliet outro with no recap and no jury framing. v10 + v11 archived.</description>
       <itunes:summary>Was the United States justified in joining Israel's preventive war on Iran? Mercer for, Tanaka against, Kurogane judges. v12 doctrine — head-to-head + silent judge.</itunes:summary>
       <pubDate>Sat, 02 May 2026 02:04:02 +0000</pubDate>
-      <enclosure url="/episodes/0ffa55edf78049228d39c559280441be.m4a" length="11420279" type="audio/mp4"/>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/0ffa55edf78049228d39c559280441be.m4a" length="11420279" type="audio/mp4"/>
       <guid isPermaLink="false">foundry-0ffa55edf78049228d39c559280441be</guid>
       <itunes:duration>15:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -40,7 +40,7 @@
       <description>The Foundry council debates where the leading AI benchmarks land in April 2028. Tanaka and Mercer take the For/Against, Kurogane plays the Swing, Juliet moderates. Munk-Debates / Hitchens style.</description>
       <itunes:summary>Where do the leading AI benchmarks land in April 2028? Tanaka, Kurogane, and Mercer debate; Juliet moderates.</itunes:summary>
       <pubDate>Fri, 01 May 2026 03:12:51 +0000</pubDate>
-      <enclosure url="/episodes/58f4cd2139134386bc3ee471bf0be9a5.m4a" length="8657285" type="audio/mp4"/>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/58f4cd2139134386bc3ee471bf0be9a5.m4a" length="8657285" type="audio/mp4"/>
       <guid isPermaLink="false">foundry-58f4cd2139134386bc3ee471bf0be9a5</guid>
       <itunes:duration>11:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
