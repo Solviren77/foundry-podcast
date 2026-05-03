@@ -14,7 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Sun, 03 May 2026 21:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:29:24 +0000</lastBuildDate>
+    <item>
+      <title>Episode 3 — Musk vs OpenAI (v16 + fireplace)</title>
+      <description>Same v16-juliet-fix debate, with a low fireplace ambient bed mixed under the voices at -22 dB. First trial of ElevenLabs-generated background audio. Listen back-to-back with the dry v16 episode and tell me which feels right.</description>
+      <itunes:summary>Same v16-juliet-fix debate, with a low fireplace ambient bed mixed under the voices at -22 dB. First trial of ElevenLabs-generated background audio. Listen back-to-back with the dry v16 episode and tell me which feels right.</itunes:summary>
+      <pubDate>Sun, 03 May 2026 22:29:23 +0000</pubDate>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/b43f849ce5e14b498f293a404749f1bd.m4a" length="16032849" type="audio/mp4"/>
+      <guid isPermaLink="false">foundry-b43f849ce5e14b498f293a404749f1bd</guid>
+      <itunes:duration>20:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Episode 3 — Musk vs OpenAI (v16 weapon-kit, Juliet fixed)</title>
       <description>Council debate on Musk's lawsuit against OpenAI's for-profit conversion. v16 doctrine: each character holds a pre-assigned 3-5 weapon arsenal (Tanaka=structural, Mercer=institutional, Kurogane=consequence-forward), Juliet runs Frost-Nixon recall pins. Re-render after fixing parser bug that dropped all moderator lines.</description>
