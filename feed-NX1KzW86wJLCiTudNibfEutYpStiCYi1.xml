@@ -14,7 +14,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509"/>
     <image><url>https://solviren77.github.io/foundry-podcast/cover.png?v=1777608509</url><title>Foundry</title><link>https://solviren77.github.io/foundry-podcast</link></image>
-    <lastBuildDate>Sun, 03 May 2026 22:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:03:32 +0000</lastBuildDate>
     <item>
       <title>Episode 3 — Musk vs OpenAI (v16 + live audience)</title>
       <description>Same v16-juliet-fix debate, framed as a live stage event: light auditorium reverb on the voices, a high-pass roll-off to mimic dynamic-mic character, and a continuous live-audience bed at -28 dB underneath. A/B against the dry and fireplace variants — which framing fits the debate.</description>
@@ -53,6 +53,26 @@
       <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/0ffa55edf78049228d39c559280441be.m4a" length="11420279" type="audio/mp4"/>
       <guid isPermaLink="false">foundry-0ffa55edf78049228d39c559280441be</guid>
       <itunes:duration>15:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 3 — Musk vs OpenAI (v16 + fireplace v2)</title>
+      <description>Fireplace bed remixed at -10 dB after v1 (-22 dB) was inaudible. Same v16 voices, just louder fire.</description>
+      <itunes:summary>Fireplace bed remixed at -10 dB after v1 (-22 dB) was inaudible. Same v16 voices, just louder fire.</itunes:summary>
+      <pubDate>Mon, 04 May 2026 01:03:12 +0000</pubDate>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/9ae433cc96e4432089f0b0c6a017a364.m4a" length="16122076" type="audio/mp4"/>
+      <guid isPermaLink="false">foundry-9ae433cc96e4432089f0b0c6a017a364</guid>
+      <itunes:duration>20:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 3 — Musk vs OpenAI (v16 + live audience v2)</title>
+      <description>Live-audience bed remixed at -20 dB with the auditorium reverb removed entirely after v1 was too reverby. Just the audience under clean voices.</description>
+      <itunes:summary>Live-audience bed remixed at -20 dB with the auditorium reverb removed entirely after v1 was too reverby. Just the audience under clean voices.</itunes:summary>
+      <pubDate>Mon, 04 May 2026 01:03:12 +0000</pubDate>
+      <enclosure url="https://solviren77.github.io/foundry-podcast/episodes/576803f752d249109aa5eaffae3335ac.m4a" length="15870774" type="audio/mp4"/>
+      <guid isPermaLink="false">foundry-576803f752d249109aa5eaffae3335ac</guid>
+      <itunes:duration>20:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
